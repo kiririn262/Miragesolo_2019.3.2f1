@@ -1,6 +1,11 @@
 # MiragesoloをUnityで使う【2019.3.2f1】
 
 # 参考
+公式リファレンス
+- [Quickstart for Google VR SDK for Unity with Android](https://developers.google.com/vr/develop/unity/get-started-android)
+- [GvrControllerInput](https://developers.google.com/vr/reference/unity/class/GvrControllerInput)
+
+---
 - [【VR】MirageSolo＋Unity開発　基本編](https://cycling.hateblo.jp/entry/2018/09/08/001128?utm_source=pocket_mylist)
 - [Mirage Soloの移動範囲を無限にする方法](https://styly.cc/ja/tips/mirage-solo-infinity-translate/?utm_source=pocket_mylist)
 - [Mirage Solo アプリ開発](https://okwave.jp/qa/q9826422.html?utm_source=pocket_mylist)

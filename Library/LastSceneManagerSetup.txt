@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/SampleScene.unity
+- path: Assets/GoogleVR/Beta/Demos/Scenes/Hello6DoFControllers.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
