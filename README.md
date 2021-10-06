@@ -2,8 +2,10 @@
 
 # 参考
 公式リファレンス
+- [Daydream (3DoF) controller support in Unity](https://developers.google.com/vr/develop/unity/controller-support)
 - [Quickstart for Google VR SDK for Unity with Android](https://developers.google.com/vr/develop/unity/get-started-android)
 - [GvrControllerInput](https://developers.google.com/vr/reference/unity/class/GvrControllerInput)
+- [Google VR クイックスタートガイド](https://docs.unity3d.com/ja/2018.4/Manual/googlevr_quick_start.html)
 
 ---
 - [【VR】MirageSolo＋Unity開発　基本編](https://cycling.hateblo.jp/entry/2018/09/08/001128?utm_source=pocket_mylist)
