@@ -1,9 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class GameController : MonoBehaviour
 {
+    public string Scene;
     //private var Controller;
     // Start is called before the first frame update
     void Start()
@@ -36,6 +38,10 @@ public class GameController : MonoBehaviour
                 Debug.Log("タッチパッドに触れたよ！");
             }
         #endif
+        if(GvrControllerInput.HomeButtonDown)
+        {
+            Code.Change_Scene(Scene);
+        }
         //Vector2 GvrControllerInput.TouchPos
         //public Vector2 GvrControllerInputDevice.TouchPos;
     }
