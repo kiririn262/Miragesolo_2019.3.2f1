@@ -7,6 +7,11 @@
 - [GvrControllerInput](https://developers.google.com/vr/reference/unity/class/GvrControllerInput)
 - [Google VR クイックスタートガイド](https://docs.unity3d.com/ja/2018.4/Manual/googlevr_quick_start.html)
 
+- [Android environment setup](https://docs.unity3d.com/Manual/android-sdksetup.html)
+- [【Unity2021対応】Androidビルドでエラーが出る場合の対処法](https://nn-hokuson.hatenablog.com/entry/2017/09/05/202327)
+- [Unityから直接Androidアプリ送って起動する(Run Deviceに出ない問題)](https://qiita.com/tedlab/items/3d0c6099b300ef317f70)
+-
+
 ---
 - [【VR】MirageSolo＋Unity開発　基本編](https://cycling.hateblo.jp/entry/2018/09/08/001128?utm_source=pocket_mylist)
 - [Mirage Soloの移動範囲を無限にする方法](https://styly.cc/ja/tips/mirage-solo-infinity-translate/?utm_source=pocket_mylist)

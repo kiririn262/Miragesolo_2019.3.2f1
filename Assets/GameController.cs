@@ -38,7 +38,7 @@ public class GameController : MonoBehaviour
                 Debug.Log("タッチパッドに触れたよ！");
             }
         #endif
-        if(GvrControllerInput.HomeButtonDown)
+        if(GvrControllerInput.AppButtonDown)
         {
             Code.Change_Scene(Scene);
         }
